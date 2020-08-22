@@ -34,7 +34,7 @@ Bid               | Made Bid      | Set
 ----------------- | ------------- | ---
 0 (Total bid >13) | 30            | -60 + (10 * ***o***)
 0 (Total bid <13) | 50            | -60 + (10 * ***o***)
->0                | 10 + ***t***² | -10 * ***o***
+\>0                | 10 + ***t***² | -10 * ***o***
 
 - ***t***: Number of tricks bid
 - ***o***: Number of tricks over or under bid

@@ -16,12 +16,12 @@
 - [French Tarot](FrenchTarot.md)
 - [Israeli Whist](IsraeliWhist.md)
 - [Mighty](Mighty.md)
-- [MuTwo](MüTwo.md)
+- [MüTwo](MuTwo.md)
 - [Rook](Rook.md)
 - [Schnapsen](Schnapsen.md)
 - [Sheepshead](Sheepshead.md)
 - [Slovenian Tarok](SlovenianTarok.md)
-- [TakeThree](TakeThree.md)
+- [Take Three](TakeThree.md)
 
 ## License
 
