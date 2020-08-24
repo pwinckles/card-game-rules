@@ -104,9 +104,9 @@ The **declarer** leads the first trick. Standard trick-taking rules apply. Playe
 
 The declarer's team wins the hand if the succeed in taking at least the number of tricks that they bid, 4 plus the number of cards the declarer bid. Otherwise, the defense wins.
 
-If the declarer's team wins, then each partner receives 10 points per trick bid plus 5 points for every overtrick. For example, if the declarer took the bid with 4 cards, then they would need to take at least 8 tricks to win. If they end up taking 9 tricks, then they would each score 80 points for the tricks bid plus 5 for the overtrick for a total of 85 points.
+If the declarer's team wins, then each partner receives 10 points per trick bid plus 5 points for every overtrick. For example, if the declarer took the bid with 4 cards, then they would need to take at least 8 tricks to win. If they end up taking 9 tricks, then they would each score 80 points for the tricks bid plus 5 for the overtrick for a total of 85 points. If they fail to take the necessary tricks, they instead each lose 10 points per trick bid.
 
-If the defenders win, then each defender receives 10 points for each trick that they took individually. The declarer and their partner each lose 10 points for each trick bid. Reusing the previous example, if the declarer's team only took 6 out of their needed 8 tricks, then they each lose 80 points. On the defense, if the tricks were split 3, 2, 1, then the players receive 30, 20, and 10 points respectively.
+Each defender always receives 10 points for each trick that they take individually, not collectively, regardless of the outcome.
 
 Finally, there is a flat bonus based on the trump characteristic selected by the winning team.
 
