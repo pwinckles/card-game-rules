@@ -2,26 +2,26 @@
 
 ## General
 
-- [Basic Concepts](BasicConcepts.md)
-- [Glossary](Glossary.md)
+- [Basic Concepts](general/BasicConcepts.md)
+- [Glossary](general/Glossary.md)
 
 ## Games
 
-- [200](200.md)
-- [500](500.md)
-- [Cego](Cego.md)
-- [Chambéry Tarot](ChamberyTarot.md)
-- [Danish Tarok](DanishTarok.md)
-- [Droggn](Droggn.md)
-- [French Tarot](FrenchTarot.md)
-- [Israeli Whist](IsraeliWhist.md)
-- [Mighty](Mighty.md)
-- [MüTwo](MuTwo.md)
-- [Rook](Rook.md)
-- [Schnapsen](Schnapsen.md)
-- [Sheepshead](Sheepshead.md)
-- [Slovenian Tarok](SlovenianTarok.md)
-- [Take Three](TakeThree.md)
+- [200](traditional/point/200.md)
+- [500](traditional/plain/500.md)
+- [Cego](traditional/tarot/Cego.md)
+- [Chambéry Tarot](traditional/tarot/ChamberyTarot.md)
+- [Danish Tarok](traditional/tarot/DanishTarok.md)
+- [Droggn](traditional/tarot/Droggn.md)
+- [French Tarot](traditional/tarot/FrenchTarot.md)
+- [Israeli Whist](traditional/plain/IsraeliWhist.md)
+- [Mighty](traditional/point/Mighty.md)
+- [MüTwo](invented/MuTwo.md)
+- [Rook](traditional/point/Rook.md)
+- [Schnapsen](traditional/point/Schnapsen.md)
+- [Sheepshead](traditional/point/Sheepshead.md)
+- [Slovenian Tarok](traditional/tarot/SlovenianTarok.md)
+- [Take Three](invented/TakeThree.md)
 
 ## License
 
