@@ -12,7 +12,7 @@ Yet Another Mü Variant WIP rules
 
 4 suits. Aces are low as 1s.
 
-There are two copies of every *even* ranked card. For example, there are two ♠4 and a total of eight 4s across all suits, but there is only one ♠5 and a total of four 5s across all suits.
+There are two copies of every *odd* ranked card. For example, there are two ♠5 and a total of eight 5s across all suits, but there is only one ♠4 and a total of four 4s across all suits.
 
 There are two identical jokers that are permanent top trumps.
 
@@ -22,42 +22,42 @@ There are two identical jokers that are permanent top trumps.
 
 ### Trump
 
-The trump suit is determined after the auction. Unlike in most traditional games where trump is defined as a suit, eg spades, here trump is defined by a suit and a rank. For example, if trump is defined as spades and 4s, then the trump suit would look as follows in a 5-player game:
+The trump suit is determined after the auction. Unlike in most traditional games where trump is defined as a suit, eg spades, here trump is defined by a suit and a rank. For example, if trump is defined as spades and 5s, then the trump suit would look as follows in a 5-player game:
 
-(low) ♠1, ♠2s, ♠3, ♠5, ♠6s, ♠7, ♠8s, ♠9, ♠10s, [♦4s, ♥4s, ♣4s], ♠4s, jokers (high)
+> (low) ♠1s, ♠2, ♠3s, ♠4, ♠6, ♠7s, ♠8, ♠9s, ♠10, [♦5s, ♥5s, ♣5s], ♠5s, jokers (high)
 
-In this case, it contains 23 cards in total. The cards of the trump rank (4s) are elevated above the suit (♠), and the cards that have both characteristics (♠4s) are the highest, just below the jokers. All of the non-spade 4s are treated as if they are the same rank.
+In this case, it contains 23 cards in total. The cards of the trump rank (5s) are elevated above the suit (♠), and the cards that have both characteristics (♠5s) are the highest, just below the jokers. All of the non-spade 5s are treated as if they are the same rank.
 
 It is possible for the trump stuit to be comprised of two ranks instead of a rank and a suit.
 
 For clarity, the following are examples from a 5-player game of every possible permutation of the trump suit:
 
-- Suit (♠) + even rank (4)
-  - ♠1, ♠2s, ♠3, ♠5, ♠6s, ♠7, ♠8s, ♠9, ♠10s, [♦4s, ♥4s, ♣4s], ♠4s, jokers
+- Suit (♠) + odd rank (5)
+  - ♠1s, ♠2, ♠3s, ♠4, ♠6, ♠7s, ♠8, ♠9s, ♠10, [♦5s, ♥5s, ♣5s], ♠5s, jokers
   - Total: 23 cards
-- Suit (♠) + odd rank (3)
-  - ♠1, ♠2s, ♠4s, ♠5, ♠6s, ♠7, ♠8s, ♠9, ♠10s, [♦3, ♥3, ♣3], ♠3, jokers
+- Suit (♠) + even rank (4)
+  - ♠1s, ♠2, ♠3s, ♠5s, ♠6, ♠7s, ♠8, ♠9s, ♠10, [♦4, ♥4, ♣4], ♠4, jokers
   - Total: 20 cards
 - Suit (♠) + no rank:
-  - ♠1, ♠2s, ♠3, ♠4s, ♠5, ♠6s, ♠7, ♠8s, ♠9, ♠10s, jokers
+  - ♠1s, ♠2, ♠3s, ♠4, ♠5s, ♠6, ♠7s, ♠8, ♠9s, ♠10, jokers
   - Total: 17 cards
-- No suit + even rank (4):
-  - [♦4s, ♥4s, ♠4s, ♣4s], jokers
+- No suit + odd rank (5):
+  - [♦5s, ♥5s, ♠5s, ♣5s], jokers
   - Total: 10 cards
-- No suit + odd rank (3):
-  - [♦3, ♥3, ♠3, ♣3], jokers
+- No suit + even rank (4):
+  - [♦4, ♥4, ♠4, ♣4], jokers
   - Total: 6 cards
 - No suit + no rank:
   - jokers
   - Total: 2 cards
-- Even rank (4) + even rank (6):
-  - [♦4s, ♥4s, ♠4s, ♣4s], [♦6s, ♥6s, ♠6s, ♣6s], jokers
+- Odd rank (5) + odd rank (7):
+  - [♦5s, ♥5s, ♠5s, ♣5s], [♦7s, ♥7s, ♠7s, ♣7s], jokers
   - Total: 18 cards
-- Even rank (4) + odd rank (3):
-  - [♦3, ♥3, ♠3, ♣3], [♦4s, ♥4s, ♠4s, ♣4s], jokers
+- Odd rank (5) + even rank (4):
+  - [♦4, ♥4, ♠4, ♣4], [♦5s, ♥5s, ♠5s, ♣5s], jokers
   - Total: 14 cards
-- Odd rank (3) + odd rank (5):
-  - [♦3, ♥3, ♠3, ♣3], [♦5, ♥5, ♠5, ♣5], jokers
+- Even rank (4) + even rank (6):
+  - [♦4, ♥4, ♠4, ♣4], [♦6, ♥6, ♠6, ♣6], jokers
   - Total: 10 cards
 
 ### Deal
@@ -74,7 +74,7 @@ A player who does not wish to bid may pass. Passing does not remove the player f
 
 On subsequent turns, a player who has already bid may increase their bid by adding additional cards from their hand to the table.
 
-The suit and rank of the cards bid matters. The declarer and head defender may only name a trump characteristic that is represented in a card that they bid. For example, if they did not bid any hearts, then they cannot name hearts as the trump suit. Or, if they did not bid any 6s, then they cannot name 6s as the trump rank.
+The suit and rank of the cards bid matters. The declarer and head defender may only name a trump characteristic that is represented in a card that they bid. For example, if they did not bid any hearts, then they cannot name hearts as the trump suit. Or, if they did not bid any 5s, then they cannot name 5s as the trump rank.
 
 When the auction ends, the player who bid the most cards wins and becomes the **declarer**. The player who bid the second most cards becomes the **head defender**.
 
@@ -113,12 +113,29 @@ Finally, there is a flat bonus based on the trump characteristic selected by the
 Selection | Declarer | Defender 
 --------- | -------- | --------
 Suit      | 0        | NA
-Even rank | 20       | 0
-Odd rank  | 40       | 40
+Odd rank  | 20       | 0
+Even rank | 40       | 40
 No trump  | 80       | 80
 
-For example, if trump is spades and 4s, then neither team would get a bonus regardless of the outcome. If instead trump is 4s (declarer's pick) and 5s (head defender's pick), then the declarer's team would get a 20 point bonus if they won, and the defenders would each get a 40 point bonus if they won.
+For example, if trump is spades and 5s, then neither team would get a bonus regardless of the outcome. If instead trump is 5s (declarer's pick) and 6s (head defender's pick), then the declarer's team would get a 20 point bonus if they won, and the defenders would each get a 40 point bonus if they won.
 
 ## Game
 
 First player to 500 wins, or 300 for a shorter game. If multiple players cross the threshold at the same time, then the player with the highest score wins. If there's a tie, they both win.
+
+## Variants
+
+### Ranked Suits
+
+Normally, all stuits apart from the suit that is named as trump are ranked the same, this results in 6 cards with the same rank when an odd rank is picked as trump. An alternative, to reduce the number of cards with the same rank, is to rank the suits (low) ♣, ♦, ♥, ♠ (high). This ranking only applies to trump, and does not affect non-trump cards. The following are a few examples:
+
+- Suit (♦) + odd rank (5)
+  - ♦1s, ♦2, ♦3s, ♦4, ♦6, ♦7s, ♦8, ♦9s, ♦10, ♣5s, ♥5s, ♠5s, ♦5s, jokers
+  - Total: 23 cards
+- Odd rank (5) + odd rank (7)
+  - ♣5s, ♦5s, ♥5s, ♠5s, ♣7s, ♦7s, ♥7s, ♠7s, jokers
+  - Total: 18 cards
+
+### No Permanent Top Trump
+
+Remove the jokers from the deck and deal out all of the cards. Everything else is the same except that there is no longer an exchange with the stock.
