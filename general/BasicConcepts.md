@@ -116,18 +116,18 @@ Note that unlike a standard deck of cards, tarot decks include **cavalier** card
 
 #### Trump Suit
 
-The cards in the trump suit are traditionally numbered from 1 to 21, using Roman numerals, and feature a prominent image. In many, but not all, games the **Fool** is considered to be the highest ranking trump card, above the **XXI**.
+The cards in the trump suit are traditionally numbered from 1 to 21, using Roman numerals, and feature a prominent image. In many, but not all, games the **Fool** is considered to be the highest ranking trump card, above the **21**.
 
-Trump **I** is know as the **Pagat**, and is the lowest ranked trump. Trump **XXI** is known as the **Mond**. The Fool, Pagat, and Mond are given special status, and collectively referred to as the **trull cards** or **honors**.
+Trump **1** is know as the **Pagat**, and is the lowest ranked trump. Trump **21** is known as the **Mond**. The Fool, Pagat, and Mond are given special status, and collectively referred to as the **trull cards** or **honors**.
 
 The trump suit is ranked and valued as follows (high to low):
 
 Card       | Points
 ---------- | ------
 Fool       | 4
-Mond (XXI) | 4
-XX - II    | 0
-Pagat (I)  | 4
+Mond (21) | 4
+20 - 2    | 0
+Pagat (1)  | 4
 
 #### The Excuse
 

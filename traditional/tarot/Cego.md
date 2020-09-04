@@ -6,7 +6,7 @@ Cego is an unusual tarot game that centers around exchanging cards with a 12-car
 
 **Players** 3, in variable partnership
 
-**Cards** 78-card tarot deck minus 1-7 in three suits and 1-6 in the fourth, for a total of **51 cards**. Three suits with 7 cards, one suit with 8 cards, and the trump suit with 22.
+**Cards** 78-card tarot deck minus 1-7 in three suits (♦, ♠, ♣) and 1-6 in the fourth (♥), for a total of **51 cards**. Three suits with 7 cards, one suit with 8 cards, and the trump suit with 22.
 
 The Fool is played as the highest trump.
 
@@ -14,8 +14,8 @@ Cards have their standard values, and cards are counted in **batches of 3**. The
 
 Card       | Points
 ---------- | ------
-Mond (XXI) | 4
-Pagat (I)  | 4
+Trump 21   | 4
+Pagat (1)  | 4
 Fool       | 4
 King       | 4
 Queen      | 3
@@ -47,7 +47,7 @@ Starting with the **forehand**, each player either bids "Solo" or passes. If any
 
 ### Phase 2
 
-If everyone passed in phase 1, then forehand must bid "Cego". Bidding proceeds from here with immediate holds (as in Skat). No jump bids are allowed.
+If everyone passed in phase 1, then forehand must bid "Cego". Bidding proceeds from here with immediate holds, a player with higher preference must immediately hold or pass when a player with lower preference makes a bid. No jump bids are allowed. If a player passes, they may not bid again. 
 
 If Solo was bid, then the Solo bidder may no longer bid. The player to their left starts the bidding, which works the same as described above. If both pass, then Solo is played.
 

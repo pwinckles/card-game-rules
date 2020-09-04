@@ -10,8 +10,8 @@ Chambéry Tarot is a basic tarot game that does not include any bonuses, declara
 
 Card       | Points
 ---------- | ------
-Mond (XXI) | 4
-Pagat (I)  | 4
+Trump 21   | 4
+Pagat (1)  | 4
 Fool       | 4
 King       | 4
 Queen      | 3
@@ -25,8 +25,8 @@ Others     | 0
 
 Standard procedure, dealing out **15 cards** per player. The dealer takes the remaining 3 cards into their hand and discards down to 15. The discarded cards count for the winner of the final trick. The following restrictions apply to the discard:
 
-- Kings, the Mond, and the Fool may never be discarded.
-- Trump, other than the Mond, may be discarded only if doing so leaves the player with no trump in hand.
+- Kings, the 21, and the Fool may never be discarded.
+- Trump, other than the 21, may be discarded only if doing so leaves the player with no trump in hand.
 - The player must announce when they discard the Pagat.
 
 ## Bidding

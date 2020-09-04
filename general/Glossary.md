@@ -62,7 +62,7 @@ In Bridge and Bridge variants, clubs and diamonds are referred to as minor suits
 
 #### The Mond
 
-The Mond is trump XXI in a tarot deck. If the Fool is high, it is the second highest trump card. Otherwise, it is the highest.
+The Mond is trump 21 in a tarot deck. If the Fool is high, it is the second highest trump card. Otherwise, it is the highest.
 
 #### No Trump
 

@@ -1,17 +1,17 @@
 # Slovenian Tarok
 
-Slovenian Tarok is similar to the famously complicated Austrian Königrufen, but is much more approachable. Slovenian Tarok should be playable by beginners, but I recommend that you ignore the bonuses until you are more comfortable with the basic game. The version of the game described here is a simplification of the rules found on Pagat.
+Slovenian Tarok is similar to the famously complicated Austrian Königrufen, but is much more approachable. Slovenian Tarok should be playable by beginners, but I recommend that you ignore the bonuses until you are more comfortable with the basic game.
 
 ## Preliminaries
 
 **Players** 4, in variable partnership
 
-**Cards** A 54-card tarot deck, which can be constructed out of a 78-card tarot deck by removing the bottom 6 cards from each plain suit. The cards have standard tarot values and rankings. The Fool is played as the highest ranked trump card above the Mond.
+**Cards** A 54-card tarot deck, which can be constructed out of a 78-card tarot deck by removing the bottom 6 cards from each plain suit. The cards have standard tarot values and rankings. The Fool is played as the highest ranked trump card above the 21.
 
 Card       | Points
 ---------- | ------
-Mond (XXI) | 4
-Pagat (I)  | 4
+Trump 21   | 4
+Pagat (1)  | 4
 Fool       | 4
 King       | 4
 Queen      | 3
@@ -39,11 +39,15 @@ If the declarer's contract allows them to exchange cards with the stock, the ent
 
 If the declarer's contract is **Three** or **Solo Three**, the first three consecutive cards are a group and the last three cards are a group. If the contract is **Two** or **Solo Two**, the first two cards, middle two cards, and last two cards are each a group. Finally, if the contract is **One** or **Solo One**, each individual card is in its own group.
 
-The declarer selects one of the groups, adds it to their hand, and discards the same number of cards face down. The discarded cards count as part of their tricks at the end of the hand. Kings and trull cards may not be discarded. Non-trull trump may be discarded, but must be discard face up for everyone to see.
+The declarer selects one of the groups, adds it to their hand, and discards the same number of cards face down. The discarded cards count as part of their tricks at the end of the hand. Cards worth 4 points may never be discarded. Trump may be discarded, but must be discard face up for everyone to see.
 
 The remaining cards that the declarer did not select count for the opponents at the end of the hand.
 
 If the declarer's contract does not allow them to exchange cards, then the entire stock is set aside unseen and counts for the opponents at the end of the hand.
+
+If the declarer bid Solo One, Solo Two, or Solo Three, then they can optionally upgrade their contract to **Color Valat** after the exchange. Color Valat cannot otherwise be bid, and is scored the same as Color Valat Without.
+
+TODO note about capturing talon when called king found
 
 ## Calling a Partner
 
@@ -59,11 +63,11 @@ When Valat is announced, all other announcements are cancelled.
 
 ## Play
 
-The **declarer** leads the first trick in Beggar and Solo Without contracts, and **forehand** leads in all others. Players must follow suit if able and must trump otherwise. If they are unable to do either, then they may play anything. Otherwise, standard trick-taking rules apply.
+The **forehand** leads the first trick in contracts below Begger, and the **declarer** leads in all others. Players must follow suit if able and must trump otherwise. If they are unable to do either, then they may play anything. Otherwise, standard trick-taking rules apply.
 
-If all three trull cards are played to the same trick in the order Mond, Fool, Pagat (and only when played in this order), then the Pagat wins the trick. This is known as the "Emperor Trick."
+The 21, the Fool, and the Pagat are played in this order to the same trick, then the Pagat wins the trick. This is known as the "Emperor Trick."
 
-In all positive contracts, if the Mond is captured by the Fool or as part of an Emperor Trick, then the player who played the Mond immediately loses 20 game-points. This is true regardless of if the player who captured the Mond is their partner.
+In all positive contracts, if the 21 is captured by the Fool or as part of an Emperor Trick, then the player who played the 21 immediately loses 20 game-points. This is true regardless of if the player who captured the 21 is their partner.
 
 In negative contracts, Klop or Beggar, players must head the trick if able. Additionally, the Pagat may only be played if there are no other options or it's the only card that could win the trick.
 
@@ -75,11 +79,13 @@ Each team counts their card-points. Points are counted in **batches of three**, 
 
 The number of points the declarer's team was away from 35, rounded to the nearest multiple of 5, is added to the base value of the contract to determine the value of the game. This is not done for Solo Without, which has a fixed game value of 80 points. If the declarer's team took at least 36 card-points, then each member of the team scores the value of the game. If they took less than 36 card-points, they each lose the value of the game.
 
+TODO note about valats
+
 #### Bonuses
 
 An announced or unannounced Valat voids all other bonuses, and it is the only one that is scored.
 
-Bonuses are evaluated independent from which team who the hand. The value of bonuses made, announced or unannounced, by the declarer's team are added to each of their scores. And, the value of bonuses that they failed is subtracted from their score.
+Bonuses are evaluated independent from which team won the hand. The value of bonuses made, announced or unannounced, by the declarer's team are added to each of their scores. And, the value of bonuses that they failed is subtracted from their score.
 
 Similarly, the value of bonuses made, announced or unannounced, by the declarer's opponents are *subtracted* from the declarer's team's score, and the value of bonuses the opponents failed are *added* to the declarer's.
 
@@ -97,19 +103,26 @@ If a player does not take any tricks, then they win the hand and score 70 points
 
 If the declarer did not take any tricks, they score 70 points. If they took a trick, they score -70 points.
 
+## Radli
+
+TODO 
+
 ## Contracts
 
-Contract     | Partner | Exchange | Goal        | Score              | Bonuses
------------- | ------- | -------- | ----------- | ------------------ | -------
-Klop         | No      | 0        | No tricks   | +/- 70 or - points | No
-Three        | Yes     | 3        | > 35 points | 10 + ***d***       | Yes
-Two          | Yes     | 2        | > 35 points | 20 + ***d***       | Yes
-One          | Yes     | 1        | > 35 points | 30 + ***d***       | Yes
-Solo Three   | No      | 3        | > 35 points | 40 + ***d***       | Yes
-Solo Two     | No      | 2        | > 35 points | 50 + ***d***       | Yes
-Solo One     | No      | 1        | > 35 points | 60 + ***d***       | Yes
-Beggar       | No      | 0        | No tricks   | 70                 | No
-Solo Without | No      | 0        | > 35 points | 80                 | No
+Contract              | Partner | Exchange | Goal        | Score              | Bonuses
+--------------------- | ------- | -------- | ----------- | ------------------ | -------
+Klop                  | No      | 0        | No tricks   | +/- 70 or - points | No
+Three                 | Yes     | 3        | > 35 points | 10 + ***d***       | Yes
+Two                   | Yes     | 2        | > 35 points | 20 + ***d***       | Yes
+One                   | Yes     | 1        | > 35 points | 30 + ***d***       | Yes
+Solo Three            | No      | 3        | > 35 points | 40 + ***d***       | Yes
+Solo Two              | No      | 2        | > 35 points | 50 + ***d***       | Yes
+Solo One              | No      | 1        | > 35 points | 60 + ***d***       | Yes
+Beggar                | No      | 0        | No tricks   | 70                 | No
+Solo Without          | No      | 0        | > 35 points | 80                 | No
+Open Beggar           | No      | 0        | No tricks   | 90                 | No
+Color Valat (Without) | No      | 0        | Every trick | 125                | No
+Valat Without         | No      | 0        | Every trick | 500                | No
 
 - ***d***: The difference between the number of card-points taken and 35, rounded to the nearest multiple of 5.
 
@@ -120,22 +133,32 @@ Everyone plays on their own. The goal is to take no tricks or as few card-points
 ### Three, Two, One
 
 The declarer exchanges 3, 2, or 1 cards with the stock, and calls for a partner by naming a king. Their goal is to take at least 36 card-points.
-Solo Three, Solo Two, Solo One
+
+### Solo Three, Solo Two, Solo One
 
 The declarer exchanges 3, 2, or 1 cards with the stock, and plays alone against the others. Their goal is to take at least 36 card-points.
 
 ### Beggar
 
 The stock is set aside unused. The declarer plays alone, attempting to not take any tricks. The declarer leads the first trick.
-Solo Without
+
+### Solo Without
 
 The declarer does not exchange with the stock and does not call for a partner. Their goal is to take at least 36 card-points.
+
+### Color Valat
+
+The declarer must win every trick. A trump card may only win a trick when trump is led. Trump must still be played when a player cannot follow suit, but it will not win.
+
+### Open Beggar
+
+Same as Begger except the declarer's hand is exposed on the table immediately after the first trick.
 
 ## Bonuses
 
 Bonus        | Unannounced | Announced | Description
 ------------ | ----------- | --------- | -----------
-Trull        | 10          | 20        | Take the Fool, Mond, and Pagat in tricks.
+Trull        | 10          | 20        | Take the Fool, the 21, and the Pagat in tricks.
 Kings        | 10          | 20        | Take all 4 kings in tricks.
 King Ultimo  | 10          | 20        | Win the last trick with the called king.
 Pagat Ultimo | 25          | 50        | Win the last trick with the Pagat.
@@ -163,7 +186,7 @@ Solo One     | 1        | > 35 points | 30 + ***d***       | Yes
 Beggar       | 0        | No tricks   | 70                 | No
 Solo Without | 0        | > 35 points | 80                 | No
 
-The bonuses are the same with the exception that King Ultimo is no longer possible.
+The bonuses are the same with the exception that King Ultimo is no longer possible. Points are scored exactly rather than rounding to the nearest multiple of 5.
 
 ## References
 

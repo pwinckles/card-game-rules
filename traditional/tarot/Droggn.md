@@ -10,8 +10,8 @@ Droggn is a unique tarot game from Austria that uses an unusually sized deck, an
 
 Card       | Points
 ---------- | ------
-Mond (XXI) | 4
-Pagat (I)  | 4
+Trump 21   | 4
+Pagat (1)  | 4
 Fool       | 4
 King       | 4
 Queen      | 3
@@ -30,12 +30,13 @@ Others     | 0
 - **Simple** May exchange with the stock and buy a card.
 - **Solo** May exchange with the stock but may not buy a card.
 - **Super** May neither exchange with stock or buy a card.
+- **Super Mord** May neither exchange with stock or buy a card, and must win every trick.
 
 The player who bids the highest ranked contract is the declarer. Their goal is to take at least 37 card-points in tricks to win the hand. The other two players play in a temporary alliance to stop the declarer.
 
 ## Exchange
 
-If the declarer's contract allows them to exchange with the stock, they take the entire stock into their hand and then discard back down to 21 cards. They may never discard the Pagat, Mond, or Fool, and they may only discard a king if they discard a regular trump card along with it. Discarded trump do not need to be announced.
+If the declarer's contract allows them to exchange with the stock, they take the entire stock into their hand and then discard back down to 21 cards. They may never discard the Pagat, the 21, or the Fool, and they may only discard a king if they discard a regular trump card along with it. Discarded trump do not need to be announced.
 
 If the contract does not allow an exchange, the stock is set aside without being examined. The cards in either the declarer's discard or the untouched stock count as part of the declarer's tricks at the end of the hand.
 
@@ -49,9 +50,11 @@ Before leading the first trick, the declarer may announce Pagat Ultimo by placin
 
 The **declarer** leads the first trick. Players must follow suit if able and must trump otherwise. If they are unable to do either, then they may play anything. There is no requirement to head the trick. Otherwise, standard trick-taking rules apply.
 
-Remember that the Fool is played as the Excuse.
+The Fool is played as the Excuse. If the declarer big Super Mord and holds the Fool, then they can place it on the table before the first trick and thereby use it to win the last trick. This is the only way the Fool can win a trick.
 
 If the Pagat is played to the final trick, regardless of whether or not Pagat Ultimo was announced, it is considered an attempt at Pagat Ultimo. If the Pagat wins the trick, it was successful. Otherwise, it failed.
+
+If the declarer bid Super Mord and loses a trick, then play ends immediately.
 
 ## Scoring
 
@@ -64,6 +67,8 @@ If the declarer took at least **37 card-points**, they won the hand and are paid
 - **Super** 80 points plus 1 point per card-point over 37
 
 Pagat Ultimo is evaluated independently of who won the game. The team that wins or loses the final trick with the Pagat is awarded or pays 20 points if it was announced or 10 points if it was unannounced. Additionally, if the Pagat is lost in a trick other than the final trick, then the team that played the Pagat loses 5 points. The opponents pay and receive points equally. For example, if one of them lost the Pagat in an early trick, then they'd both owe the declarer 5 points apiece.
+
+Super Mord scores a flat 167, or 187 if the Pagat or the Fool were displayed.
 
 ## References
 

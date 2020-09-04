@@ -10,8 +10,8 @@ French Tarot is a popular modern tarot game for 3 to 5 players. The 5-player gam
 
 Card       | Points
 ---------- | ------
-Mond (XXI) | 4
-Pagat (I)  | 4
+Trump 21   | 4
+Pagat (1)  | 4
 Fool       | 4
 King       | 4
 Queen      | 3
@@ -112,7 +112,7 @@ Unannounced Slam            | 200
 
 ### Scoring Example
 
-The winning bid was Guard. The declaring team made 60 points, the only trull card they captured was the Mond, they lost the pagat in the final trick, and one of their opponents declared a handful. With one trull card, they needed 51 points to win the hand, which they made. The value of the game is computed as follows:
+The winning bid was Guard. The declaring team made 60 points, the only trull card they captured was the 21, they lost the pagat in the final trick, and one of their opponents declared a handful. With one trull card, they needed 51 points to win the hand, which they made. The value of the game is computed as follows:
 
 ((25 [game] + 9 [point differential] - 10 [lost Pagat]) * 2 [guard]) + 20 [handful] = 68
 
