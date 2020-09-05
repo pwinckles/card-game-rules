@@ -37,7 +37,7 @@ Guard against the talon | 6          | May not use the talon and it counts in th
 Each successive bid must be higher than the previous. If everyone passes, the hand is thrown in.
 Exchange
 
-If the winning bid is **Small** or **Guard**, the declarer exposes the talon for everyone to see, takes the cards into their hand, and then discards back to 15. The discard cards count as part of their tricks. Kings and trull cards may never be discarded. Non-trull trump may be discard if there is no other option, and must be shown to the table.
+If the winning bid is **Small** or **Guard**, the declarer exposes the talon for everyone to see, takes the cards into their hand, and then discards back to 15. The discard cards count as part of their tricks. Cards worth 4 points may never be discarded. Trump may be discard if there is no other option, and must be shown to the table.
 
 If the winning bid is **Guard without the talon**, the talon is not exposed, and the cards are counted as part of the declarer's tricks. Finally, if the winning bid is **Guard against the talon**, the talon is not exposed, and the cards are counted as part of the opposition's tricks.
 
@@ -69,7 +69,7 @@ The declarer may announce a **slam**, stating that their team will win every tri
 
 Players must follow suit if able and must trump otherwise. If they are unable to do either, then they may play anything. When playing a suit card, there is no requirement to head the trick. However, whenever a trump is played it must be higher than the highest trump currently in play if possible. Otherwise, standard trick-taking rules apply.
 
-Remember that the Fool is played as the Excuse.
+The Fool is played as the Excuse.
 
 If the Pagat is played to the final trick, bonus points are awarded to the team that captures it.
 
