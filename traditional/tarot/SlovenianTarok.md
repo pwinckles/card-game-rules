@@ -148,6 +148,8 @@ The declarer exchanges 3, 2, or 1 cards with the talon, and plays alone against 
 
 The talon is set aside unused. The declarer plays alone, attempting to not take any tricks. The declarer leads the first trick.
 
+When Open Beggar is played, the declarer's hand is exposed on the table immediately after the first trick.
+
 ### Solo Without
 
 The declarer does not exchange with the talon and does not call for a partner. Their goal is to take at least 36 card-points.
@@ -155,10 +157,6 @@ The declarer does not exchange with the talon and does not call for a partner. T
 ### Color Valat
 
 The declarer must win every trick. A trump card may only win a trick when trump is led. Trump must still be played when a player cannot follow suit, but it will not win.
-
-### Open Beggar
-
-Same as Begger except the declarer's hand is exposed on the table immediately after the first trick.
 
 ## Bonuses
 
