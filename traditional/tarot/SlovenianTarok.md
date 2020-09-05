@@ -21,7 +21,7 @@ Others     | 0
 
 **Objective** Play alone or with a partner to take 36 or more card-points to win the hand.
 
-**Deal** Standard procedure, dealing out **12 cards** per player and 6 cards to the stock.
+**Deal** Standard procedure, dealing out **12 cards** per player and 6 cards to the talon.
 
 ## Bidding
 
@@ -33,9 +33,13 @@ The player who wins the auction is the declarer. Before continuing, they are all
 
 If the first three players pass without bidding, the forehand is the declarer and must name a contract. This is only time that **Klop** and **Three** may be played.
 
+## Calling a Partner
+
+After the auction, if the contract allows it, the declarer calls for a partner by naming a king. The player who holds the called king does not reveal themselves. Their identity becomes known only by playing the called card. The declarer may call a king that they hold, in which case they play alone against the others, but doing so does not increase the value of the contract.
+
 ## Exchange
 
-If the declarer's contract allows them to exchange cards with the stock, the entire stock is turned face up on the table and divided into groups of cards.
+If the declarer's contract allows them to exchange cards with the talon, the entire talon is turned face up on the table and divided into groups of cards.
 
 If the declarer's contract is **Three** or **Solo Three**, the first three consecutive cards are a group and the last three cards are a group. If the contract is **Two** or **Solo Two**, the first two cards, middle two cards, and last two cards are each a group. Finally, if the contract is **One** or **Solo One**, each individual card is in its own group.
 
@@ -43,15 +47,11 @@ The declarer selects one of the groups, adds it to their hand, and discards the 
 
 The remaining cards that the declarer did not select count for the opponents at the end of the hand.
 
-If the declarer's contract does not allow them to exchange cards, then the entire stock is set aside unseen and counts for the opponents at the end of the hand.
+If the called king was found in the talon, then the declarer must play alone. However, if they select the group of cards that contains the called king, and win a trick with the same king, then they additionally win the remainder of the talon that would normally count for the opposition.
+
+If the declarer's contract does not allow them to exchange cards, then the entire talon is set aside unseen and counts for the opponents at the end of the hand.
 
 If the declarer bid Solo One, Solo Two, or Solo Three, then they can optionally upgrade their contract to **Color Valat** after the exchange. Color Valat cannot otherwise be bid, and is scored the same as Color Valat Without.
-
-TODO note about capturing talon when called king found
-
-## Calling a Partner
-
-After the exchange, if the contract allows it, the declarer calls for a partner by naming a king that they do not hold in their hand. A queen may be named if they hold all of the kings. The player who holds the called king does not reveal themselves. Their identity becomes known only by playing the called card. The declarer may call a king that they hold, in which case they play alone against the others, but doing so does not increase the value of the contract.
 
 ## Announcements
 
@@ -63,7 +63,7 @@ When Valat is announced, all other announcements are cancelled.
 
 ## Play
 
-The **forehand** leads the first trick in contracts below Begger, and the **declarer** leads in all others. Players must follow suit if able and must trump otherwise. If they are unable to do either, then they may play anything. Otherwise, standard trick-taking rules apply.
+The **forehand** leads the first trick in contracts below Beggar, and the **declarer** leads in all others. Players must follow suit if able and must trump otherwise. If they are unable to do either, then they may play anything. Otherwise, standard trick-taking rules apply.
 
 The 21, the Fool, and the Pagat are played in this order to the same trick, then the Pagat wins the trick. This is known as the "Emperor Trick."
 
@@ -71,15 +71,17 @@ In all positive contracts, if the 21 is captured by the Fool or as part of an Em
 
 In negative contracts, Klop or Beggar, players must head the trick if able. Additionally, the Pagat may only be played if there are no other options or it's the only card that could win the trick.
 
+If a Valat contract is played and the declarer loses a trick, then the hand ends immediately. Similarly, if a Beggar contract is played and the declarer wins a trick, then the hand ends immediately.
+
 ## Scoring
 
 ### Positive Contracts
 
+Valat contracts have a flat value that the declarer wins or loses based on the outcome of the hand, and there is no need to count card-points.
+
 Each team counts their card-points. Points are counted in **batches of three**, using the standard method. Fractional values should be rounded to the nearest integer. There are **70 card-points** in total. The declarer's team needs at least **36 card-points** to win the hand.
 
 The number of points the declarer's team was away from 35, rounded to the nearest multiple of 5, is added to the base value of the contract to determine the value of the game. This is not done for Solo Without, which has a fixed game value of 80 points. If the declarer's team took at least 36 card-points, then each member of the team scores the value of the game. If they took less than 36 card-points, they each lose the value of the game.
-
-TODO note about valats
 
 #### Bonuses
 
@@ -93,19 +95,23 @@ Solo Without does not score any bonuses.
 
 ### Negative Contracts
 
+When Beggar is played, the declarer scores a flat amount based on if they won or lost the hand.
+
+When Kop is played, if a player does not take any tricks, then they win the hand and score 70 points. Otherwise, each player counts their card-points as described above. If a player took 36 or more card-points, then they lost the hand and score -70 points. If no one won or lost the hand, then each player loses the number of points that the took, rounded to the nearest multiple of 5.
+
 Bonuses are not scored in negative contracts.
-
-#### Klop
-
-If a player does not take any tricks, then they win the hand and score 70 points. Otherwise, each player counts their card-points as described above. If a player took 36 or more card-points, then they lost the hand and score -70 points. If no one won or lost the hand, then each player loses the number of points that the took, rounded to the nearest multiple of 5.
-
-#### Beggar
-
-If the declarer did not take any tricks, they score 70 points. If they took a trick, they score -70 points.
 
 ## Radli
 
-TODO 
+Each player gains a radli whenever one of the following occurs:
+
+- Kop is played
+- A contract higher than Beggar is played
+- A Valat is won or lost
+
+A radli is a small circle that is drawn under the player's name on the score sheet. It is used to modify the total value of a hand. At the end of a hand, after totaling the number of points the declarer wins or loses, including bonuses, if the declarer has an unused radli, then the amount they win or lose is doubled. If it was a win, then the radli is crossed out and it cannot be used again. This same doubling applies to their partner, if they have one, regardless of whether or not their partner has any unused radli.
+
+At the end of the game, players with radli that have not been crossed out lose 100 points per unused radli.
 
 ## Contracts
 
@@ -128,23 +134,23 @@ Valat Without         | No      | 0        | Every trick | 500                | 
 
 ### Klop
 
-Everyone plays on their own. The goal is to take no tricks or as few card-points as possible. After the auction, the stock is set aside unused. After each of the first six tricks, the player who won the trick takes the top card off the stock and adds it to their trick pile.
+Everyone plays on their own. The goal is to take no tricks or as few card-points as possible. After the auction, the talon is set aside unused. After each of the first six tricks, the player who won the trick takes the top card off the talon and adds it to their trick pile.
 
 ### Three, Two, One
 
-The declarer exchanges 3, 2, or 1 cards with the stock, and calls for a partner by naming a king. Their goal is to take at least 36 card-points.
+The declarer exchanges 3, 2, or 1 cards with the talon, and calls for a partner by naming a king. Their goal is to take at least 36 card-points.
 
 ### Solo Three, Solo Two, Solo One
 
-The declarer exchanges 3, 2, or 1 cards with the stock, and plays alone against the others. Their goal is to take at least 36 card-points.
+The declarer exchanges 3, 2, or 1 cards with the talon, and plays alone against the others. Their goal is to take at least 36 card-points.
 
 ### Beggar
 
-The stock is set aside unused. The declarer plays alone, attempting to not take any tricks. The declarer leads the first trick.
+The talon is set aside unused. The declarer plays alone, attempting to not take any tricks. The declarer leads the first trick.
 
 ### Solo Without
 
-The declarer does not exchange with the stock and does not call for a partner. Their goal is to take at least 36 card-points.
+The declarer does not exchange with the talon and does not call for a partner. Their goal is to take at least 36 card-points.
 
 ### Color Valat
 
@@ -175,7 +181,7 @@ Valat        | 250         | 500       | Win every trick. Cancels all other bonu
 
 ### 3 Players
 
-The rules are assumed to be the same apart from the following exceptions. **16 cards** are dealt to each player and 6 cards to the stock. The forehand starts the bidding, and may name any contract other than Klop. Klop is only played if everyone passes without bidding. The declarer always plays alone against the other two. The contracts are as follows:
+The rules are assumed to be the same apart from the following exceptions. **16 cards** are dealt to each player and 6 cards to the talon. The forehand starts the bidding, and may name any contract other than Klop. Klop is only played if everyone passes without bidding. The declarer always plays alone against the other two. The contracts are as follows:
 
 Contract     | Exchange | Goal        | Score              | Bonuses
 ------------ | -------- | ----------- | ------------------ | -------

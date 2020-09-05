@@ -21,7 +21,7 @@ Others     | 0
 
 **Objective** Play in temporary partnership to take at least as many card-points as necessary to win the hand.
 
-**Deal** Standard procedure, dealing out **15 cards** per player and 3 cards to the stock.
+**Deal** Standard procedure, dealing out **15 cards** per player and 3 cards to the talon.
 
 ## Bidding
 
@@ -29,17 +29,17 @@ Others     | 0
 
 Bid                     | Multiplier | Description
 ----------------------- | ---------- | -----------
-Small                   | 1          | May exchange with the stock
-Guard                   | 2          | May exchange with the stock
-Guard without the stock | 4          | May not use the stock but it counts in their tricks.
-Guard against the stock | 6          | May not use the stock and it counts in their opponents' tricks.
+Small                   | 1          | May exchange with the talon
+Guard                   | 2          | May exchange with the talon
+Guard without the talon | 4          | May not use the talon but it counts in their tricks.
+Guard against the talon | 6          | May not use the talon and it counts in their opponents' tricks.
 
 Each successive bid must be higher than the previous. If everyone passes, the hand is thrown in.
 Exchange
 
-If the winning bid is **Small** or **Guard**, the declarer exposes the stock for everyone to see, takes the cards into their hand, and then discards back to 15. The discard cards count as part of their tricks. Kings and trull cards may never be discarded. Non-trull trump may be discard if there is no other option, and must be shown to the table.
+If the winning bid is **Small** or **Guard**, the declarer exposes the talon for everyone to see, takes the cards into their hand, and then discards back to 15. The discard cards count as part of their tricks. Kings and trull cards may never be discarded. Non-trull trump may be discard if there is no other option, and must be shown to the table.
 
-If the winning bid is **Guard without the stock**, the stock is not exposed, and the cards are counted as part of the declarer's tricks. Finally, if the winning bid is **Guard against the stock**, the stock is not exposed, and the cards are counted as part of the opposition's tricks.
+If the winning bid is **Guard without the talon**, the talon is not exposed, and the cards are counted as part of the declarer's tricks. Finally, if the winning bid is **Guard against the talon**, the talon is not exposed, and the cards are counted as part of the opposition's tricks.
 
 ## Calling a Partner
 
@@ -125,7 +125,7 @@ Each of the opponents lose 68 points, the declarer's partner gains 68 points, an
 The rules are the same with the following exceptions:
 
 - 24 cards are dealt to each player
-- 6 cards are dealt to the stock
+- 6 cards are dealt to the talon
 - The declarer always plays alone
 
 ### 4 Players
@@ -133,7 +133,7 @@ The rules are the same with the following exceptions:
 The rules are the same with the following exceptions:
 
 - 18 cards are dealt to each player
-- 6 cards are dealt to the stock
+- 6 cards are dealt to the talon
 - The declarer always plays alone
 
 ## References

@@ -40,11 +40,11 @@ A    | 11
 
 **Objective** Take more than 60 card-points.
 
-**Deal** Standard procedure, dealing out all of the cards and 2 cards to the stock.
+**Deal** Standard procedure, dealing out all of the cards and 2 cards to the talon.
 
 ## Picking
 
-Starting with the **forehand**, each player has the option to either pickup the cards in the stock or pass. Picking up the cards obliges the player to take at least 61 card-points in tricks. The player who picks the cards must then discard any 2 cards face down. These cards count towards their total at the end of the hand.
+Starting with the **forehand**, each player has the option to either pickup the cards in the talon or pass. Picking up the cards obliges the player to take at least 61 card-points in tricks. The player who picks the cards must then discard any 2 cards face down. These cards count towards their total at the end of the hand.
 
 ## Calling a Partner
 
@@ -58,7 +58,7 @@ If the picker is confident in their hand, they may choose to play alone against 
 
 ## Leaster
 
-When no one picks a leaster is played. In a leaster there are no teams, and the goal is to be the player who takes the fewest points. However, in order to win a leaster you must also take at least one trick. The player who takes the final trick also takes the cards in the stock.
+When no one picks a leaster is played. In a leaster there are no teams, and the goal is to be the player who takes the fewest points. However, in order to win a leaster you must also take at least one trick. The player who takes the final trick also takes the cards in the talon.
 
 ## Play
 

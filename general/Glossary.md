@@ -84,9 +84,9 @@ Any suit that is not the trump suit.
 
 The player who plays last to the first trick. This is usually the dealer.
 
-#### Stock
+#### Talon
 
-Also known as the talon, kitty, or blind. It's the cards that remain undealt once the dealer has finished dealing the hand. These cards may or may not be used, depending on the game.
+Also known as the stock, kitty, or blind. It's the cards that remain undealt once the dealer has finished dealing the hand. These cards may or may not be used, depending on the game.
 
 #### Trick
 

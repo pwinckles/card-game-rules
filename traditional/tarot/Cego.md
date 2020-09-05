@@ -1,6 +1,6 @@
 # Cego
 
-Cego is an unusual tarot game that centers around exchanging cards with a 12-card stock. The variant described here is for 3 players.
+Cego is an unusual tarot game that centers around exchanging cards with a 12-card talon. The variant described here is for 3 players.
 
 ## Preliminaries
 
@@ -25,7 +25,7 @@ Others     | 0
 
 **Objective** Take 36 or more card-points to win the hand.
 
-**Deal** Standard procedure, dealing out **13 cards** per player and 12 cards to the stock.
+**Deal** Standard procedure, dealing out **13 cards** per player and 12 cards to the talon.
 
 ## Games
 

@@ -125,8 +125,8 @@ The trump suit is ranked and valued as follows (high to low):
 Card       | Points
 ---------- | ------
 Fool       | 4
-Mond (21) | 4
-20 - 2    | 0
+Mond (21)  | 4
+20 - 2     | 0
 Pagat (1)  | 4
 
 #### The Excuse

@@ -14,7 +14,7 @@ Mighty is a Korean point-trick game where all the cards 10 and above are worth o
 
 **Objective** Work with your partner to capture at least as many point cards in tricks as were bid.
 
-**Deal** Standard procedure, dealing out **10 cards** to each player and 3 cards to the stock.
+**Deal** Standard procedure, dealing out **10 cards** to each player and 3 cards to the talon.
 
 ## Bidding
 

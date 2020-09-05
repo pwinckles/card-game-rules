@@ -23,7 +23,7 @@ Others | 0
 
 **Objective** Work with your partner to take at least as many points in tricks as your bid.
 
-**Deal** Standard procedure, dealing **12 cards** to each player and 5 cards to the stock, which is called "the nest."
+**Deal** Standard procedure, dealing **12 cards** to each player and 5 cards to the talon, which is called "the nest."
 
 ## Bidding
 

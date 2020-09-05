@@ -20,24 +20,24 @@ Ace   | 11
 
 **Objective** Be the first player to win 66 points in cards and marriages.
 
-**Deal** Standard procedure, dealing 5 cards to each player. The next card is turned to determine trump, and is placed perpendicularly underneath the remaining cards in the stock so that it's still visible.
+**Deal** Standard procedure, dealing 5 cards to each player. The next card is turned to determine trump, and is placed perpendicularly underneath the remaining cards in the talon so that it's still visible.
 
 ## Play
 
 **Forehand** leads the first trick. **There is no requirement to follow suit.** Tricks are won by the player who played the highest trump, or by the player who played the highest card in the led suit, if no trump was played.
 
-After each trick, the winner of that trick takes the top card of the stock, and then the other player does likewise. The turned trump card is the final card drawn, following the fifth trick.
+After each trick, the winner of that trick takes the top card of the talon, and then the other player does likewise. The turned trump card is the final card drawn, following the fifth trick.
 
 Before leading a trick, including the first trick, the leading player only may do the following:
 
 - **Declare a marriage** by announcing the suit they have a marriage in and leading the trick with either the king or queen of that suit. Only one marriage may be declared at a time.
 - **Exchange** the jack of trump for the trump card that was turned during the deal.
-- **Close** the stock by placing the turned trump card face down on top of the stock. Closing the stock triggers the end game rules.
+- **Close** the talon by placing the turned trump card face down on top of the talon. Closing the talon triggers the end game rules.
 - **Go out** by claiming they made at least 66 points in cards and marriages, ending the hand and immediately proceeding to scoring.
 
 ### End Game Rules
 
-When either there are no cards left in the stock or the stock is closed, new rules go into effect. Cards are no longer drawn between tricks. Players **must follow suit** if they can, trump if they can't, or, only if they can't do either, play anything. Additionally, if they can play a card that wins the trick they must do so.
+When either there are no cards left in the talon or the talon is closed, new rules go into effect. Cards are no longer drawn between tricks. Players **must follow suit** if they can, trump if they can't, or, only if they can't do either, play anything. Additionally, if they can play a card that wins the trick they must do so.
 
 The lead player may still declare marriages and claim 66 points. Play continues until either a player goes out or all of the cards are played out.
 
@@ -59,7 +59,7 @@ Otherwise, their opponent scores 2 game points (3 if they didn't take any tricks
 
 ### Closed
 
-If the closing player successfully makes 66 points, they score the same as above, except only the points that the non-closer had at the time the stock was closed are taken into account. If the closing player either fails to make 66 or the non-closer claims 66 first, the non-closer scores 2 game points (3 if they hadn't taken any tricks at the time the stock was closed).
+If the closing player successfully makes 66 points, they score the same as above, except only the points that the non-closer had at the time the talon was closed are taken into account. If the closing player either fails to make 66 or the non-closer claims 66 first, the non-closer scores 2 game points (3 if they hadn't taken any tricks at the time the talon was closed).
 
 ### Game
 
@@ -71,9 +71,9 @@ Game is first to 7 game points.
 
 Sharp Schnapsen is a stricter, more challenging variant with the following rule changes:
 
-- The stock may only be closed when there are four or more cards remaining.
+- The talon may only be closed when there are four or more cards remaining.
 - Marriages may not be declared on the first trick.
-- Trump may not be exchanged on the first trick or when there are only 2 cards remaining in the stock.
+- Trump may not be exchanged on the first trick or when there are only 2 cards remaining in the talon.
 
 ## References
 

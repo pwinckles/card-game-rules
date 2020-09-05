@@ -62,7 +62,7 @@ For clarity, the following are examples from a 5-player game of every possible p
 
 ### Deal
 
-12 cards to each player and a 2 card stock.
+12 cards to each player and a 2 card talon.
 
 ## Bidding
 
@@ -94,7 +94,7 @@ The declarer now must name one characteristic of the trump suit. They may either
 
 ### Exchange
 
-Finally, the declarer takes the stock into their hand, and then discards 2 cards. They may choose to discard cards on the table, but, if they do so, they must replace the cards from the table with an equivalent number of cards that they drew from the stock.
+Finally, the declarer takes the talon into their hand, and then discards 2 cards. They may choose to discard cards on the table, but, if they do so, they must replace the cards from the table with an equivalent number of cards that they drew from the talon.
 
 ## Play
 
@@ -138,4 +138,4 @@ Normally, all stuits apart from the suit that is named as trump are ranked the s
 
 ### No Permanent Top Trump
 
-Remove the jokers from the deck and deal out all of the cards. Everything else is the same except that there is no longer an exchange with the stock.
+Remove the jokers from the deck and deal out all of the cards. Everything else is the same except that there is no longer an exchange with the talon.

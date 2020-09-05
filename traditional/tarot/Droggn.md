@@ -21,24 +21,24 @@ Others     | 0
 
 **Objective** Capture at least **37 card-points** to win the hand.
 
-**Deal** Standard procedure, dealing out **21 cards** per player and 3 cards to the stock.
+**Deal** Standard procedure, dealing out **21 cards** per player and 3 cards to the talon.
 
 ## Bidding
 
 **Forehand** leads a single round of bidding in which each player must either pass or bid one of the following contracts ranked from low to high:
 
-- **Simple** May exchange with the stock and buy a card.
-- **Solo** May exchange with the stock but may not buy a card.
-- **Super** May neither exchange with stock or buy a card.
-- **Super Mord** May neither exchange with stock or buy a card, and must win every trick.
+- **Simple** May exchange with the talon and buy a card.
+- **Solo** May exchange with the talon but may not buy a card.
+- **Super** May neither exchange with talon or buy a card.
+- **Super Mord** May neither exchange with talon or buy a card, and must win every trick.
 
 The player who bids the highest ranked contract is the declarer. Their goal is to take at least 37 card-points in tricks to win the hand. The other two players play in a temporary alliance to stop the declarer.
 
 ## Exchange
 
-If the declarer's contract allows them to exchange with the stock, they take the entire stock into their hand and then discard back down to 21 cards. They may never discard the Pagat, the 21, or the Fool, and they may only discard a king if they discard a regular trump card along with it. Discarded trump do not need to be announced.
+If the declarer's contract allows them to exchange with the talon, they take the entire talon into their hand and then discard back down to 21 cards. They may never discard the Pagat, the 21, or the Fool, and they may only discard a king if they discard a regular trump card along with it. Discarded trump do not need to be announced.
 
-If the contract does not allow an exchange, the stock is set aside without being examined. The cards in either the declarer's discard or the untouched stock count as part of the declarer's tricks at the end of the hand.
+If the contract does not allow an exchange, the talon is set aside without being examined. The cards in either the declarer's discard or the untouched talon count as part of the declarer's tricks at the end of the hand.
 
 If the contract allows the declarer to buy a card, they do so after the exchange. The declarer may call for any card and the player who holds the card must give it to them. In exchange, the declarer gives them a card from their hand.
 
