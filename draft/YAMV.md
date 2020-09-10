@@ -84,13 +84,13 @@ If there is a tie for the second most cards bid, then the head defender is the t
 
 All of the cards that were bid remain face up on the table.
 
-### Picking a Partner
-
-The declarer next names one of the other players as their partner. They may not pick the head defender. The remaining players are on a team together as the defense.
-
 ### Defining Trump
 
 The declarer now must name one characteristic of the trump suit. They may either name a suit, a rank, or no trump. Then, the head defender must name the other characteristic. However, the head defender is not allowed to name a suit and may only name a rank or no trump. The two characteristics are combined to form the trump suit as described above.
+
+### Picking a Partner
+
+The declarer next names one of the other players as their partner. They may not pick the head defender. The remaining players are on a team together as the defense.
 
 ### Exchange
 
