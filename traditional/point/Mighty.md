@@ -21,7 +21,8 @@ Mighty is a Korean point-trick game where all the cards 10 and above are worth o
 The **dealer** starts the auction. Each player must either raise the bid or pass. Once a player passes they may not bid again. The auction continues until all but one player have passed. The remaining player is the declarer. If everyone passes without bidding, the hand is thrown in.
 
 A bid is comprised of the minimum number of card-points the player thinks they can take in tricks with the help of a partner and a trump suit or no trump. The minimum bid is 13. All trump suits are equal and no trump out ranks them. This means that a bid of 13♠ can be out bid by 13 no trump or anything at the 14 level or higher.
-Calling a Partner
+
+## Calling a Partner
 
 The declarer takes the blind into their hand and discards back to 10 cards. The discarded cards count for the declarer at the end of the hand. After discarding, the declarer may optionally increase their bid level by 2 to change trump to a different suit. However, if they change to no trump the level only increases by 1.
 
