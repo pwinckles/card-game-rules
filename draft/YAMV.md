@@ -16,11 +16,9 @@ There are two copies of every *odd* ranked card. For example, there are two ♠5
 and a total of eight 5s across all suits, but there is only one ♠4 and a total
 of four 4s across all suits.
 
-There are two identical jokers that are permanent top trumps.
-
-- 4 players: ranks 1-8 + 2 jokers, 50 cards
-- 5 players: ranks 1-10 + 2 jokers, 62 cards
-- 6 players: ranks 1-12 + 2 jokers, 74 cards
+- 4 players: ranks 1-8, 48 cards
+- 5 players: ranks 1-10, 60 cards
+- 6 players: ranks 1-12, 72 cards
 
 ### Trump
 
@@ -29,12 +27,12 @@ where trump is defined as a suit, eg spades, here trump is defined by a suit and
 a rank. For example, if trump is defined as spades and 5s, then the trump suit
 would look as follows in a 5-player game:
 
-> (low) ♠1s, ♠2, ♠3s, ♠4, ♠6, ♠7s, ♠8, ♠9s, ♠10, [♦5s, ♥5s, ♣5s], ♠5s, jokers (high)
+> (low) ♠1s, ♠2, ♠3s, ♠4, ♠6, ♠7s, ♠8, ♠9s, ♠10, [♦5s, ♥5s, ♣5s], ♠5s (high)
 
-In this case, it contains 23 cards in total. The cards of the trump rank (5s)
+In this case, it contains 21 cards in total. The cards of the trump rank (5s)
 are elevated above the suit (♠), and the cards that have both characteristics
-(♠5s) are the highest, just below the jokers. All of the non-spade 5s are
-treated as if they are the same rank.
+(♠5s) are the highest. All of the non-spade 5s are treated as if they are the
+same rank.
 
 It is possible for the trump suit to be comprised of two ranks instead of a
 rank and a suit.
@@ -43,36 +41,33 @@ For clarity, the following are examples from a 5-player game of every possible
 permutation of the trump suit:
 
 - Suit (♠) + odd rank (5)
-  - ♠1s, ♠2, ♠3s, ♠4, ♠6, ♠7s, ♠8, ♠9s, ♠10, [♦5s, ♥5s, ♣5s], ♠5s, jokers
-  - Total: 23 cards
+  - ♠1s, ♠2, ♠3s, ♠4, ♠6, ♠7s, ♠8, ♠9s, ♠10, [♦5s, ♥5s, ♣5s], ♠5s
+  - Total: 21 cards
 - Suit (♠) + even rank (4)
-  - ♠1s, ♠2, ♠3s, ♠5s, ♠6, ♠7s, ♠8, ♠9s, ♠10, [♦4, ♥4, ♣4], ♠4, jokers
-  - Total: 20 cards
-- Suit (♠) + no rank:
-  - ♠1s, ♠2, ♠3s, ♠4, ♠5s, ♠6, ♠7s, ♠8, ♠9s, ♠10, jokers
-  - Total: 17 cards
-- No suit + odd rank (5):
-  - [♦5s, ♥5s, ♠5s, ♣5s], jokers
-  - Total: 10 cards
-- No suit + even rank (4):
-  - [♦4, ♥4, ♠4, ♣4], jokers
-  - Total: 6 cards
-- No suit + no rank:
-  - jokers
-  - Total: 2 cards
-- Odd rank (5) + odd rank (7):
-  - [♦5s, ♥5s, ♠5s, ♣5s], [♦7s, ♥7s, ♠7s, ♣7s], jokers
+  - ♠1s, ♠2, ♠3s, ♠5s, ♠6, ♠7s, ♠8, ♠9s, ♠10, [♦4, ♥4, ♣4], ♠4
   - Total: 18 cards
+- Suit (♠) + no rank:
+  - ♠1s, ♠2, ♠3s, ♠4, ♠5s, ♠6, ♠7s, ♠8, ♠9s, ♠10
+  - Total: 15 cards
+- No suit + odd rank (5):
+  - [♦5s, ♥5s, ♠5s, ♣5s]
+  - Total: 8 cards
+- No suit + even rank (4):
+  - [♦4, ♥4, ♠4, ♣4]
+  - Total: 4 cards
+- Odd rank (5) + odd rank (7):
+  - [♦5s, ♥5s, ♠5s, ♣5s], [♦7s, ♥7s, ♠7s, ♣7s]
+  - Total: 16 cards
 - Odd rank (5) + even rank (4):
-  - [♦4, ♥4, ♠4, ♣4], [♦5s, ♥5s, ♠5s, ♣5s], jokers
-  - Total: 14 cards
+  - [♦4, ♥4, ♠4, ♣4], [♦5s, ♥5s, ♠5s, ♣5s]
+  - Total: 12 cards
 - Even rank (4) + even rank (6):
-  - [♦4, ♥4, ♠4, ♣4], [♦6, ♥6, ♠6, ♣6], jokers
-  - Total: 10 cards
+  - [♦4, ♥4, ♠4, ♣4], [♦6, ♥6, ♠6, ♣6]
+  - Total: 8 cards
 
 ### Deal
 
-12 cards to each player and a 2 card talon.
+12 cards to each player.
 
 ## Bidding
 
@@ -155,8 +150,12 @@ If the declarer's team wins, then each partner receives 10 points per trick bid
 plus 5 points for every overtrick. For example, if the declarer took the bid
 with 4 cards, then they would need to take at least 8 tricks to win. If they end
 up taking 9 tricks, then they would each score 80 points for the tricks bid plus
-5 for the overtrick for a total of 85 points. If they fail to take the necessary
-tricks, they instead each lose 10 points per trick bid.
+5 for the overtrick for a total of 85 points.
+
+If they fail to take the necessary tricks, the declarer loses 10 points per
+_trick bid_, and their partner loses 10 points per _undertrick_. Reusing the
+previous example, if they instead only took 6 of the needed 8 tricks, then the
+declarer loses 80 points and their partner loses 20.
 
 Each defender always receives 5 points for each trick that they take
 individually, not collectively, regardless of the outcome.
@@ -193,13 +192,15 @@ rank the suits (low) ♣, ♦, ♥, ♠ (high). This ranking only applies to tru
 does not affect non-trump cards. The following are a few examples:
 
 - Suit (♦) + odd rank (5)
-  - ♦1s, ♦2, ♦3s, ♦4, ♦6, ♦7s, ♦8, ♦9s, ♦10, ♣5s, ♥5s, ♠5s, ♦5s, jokers
-  - Total: 23 cards
+  - ♦1s, ♦2, ♦3s, ♦4, ♦6, ♦7s, ♦8, ♦9s, ♦10, ♣5s, ♥5s, ♠5s, ♦5s
+  - Total: 21 cards
 - Odd rank (5) + odd rank (7)
-  - ♣5s, ♦5s, ♥5s, ♠5s, ♣7s, ♦7s, ♥7s, ♠7s, jokers
+  - ♣5s, ♦5s, ♥5s, ♠5s, ♣7s, ♦7s, ♥7s, ♠7s
   - Total: 18 cards
 
-### No Permanent Top Trump
+## TODO
 
-Remove the jokers from the deck and deal out all of the cards. Everything else
-is the same except that there is no longer an exchange with the talon.
+- Head defender may pick a suit (still not sure if I like the possibility of
+  there only being 3 suits)
+- Within the trump suit, duplicate cards are ranked by suit
+- Change deck composition? Fewer duplicate ranks? 
