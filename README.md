@@ -16,6 +16,7 @@
 - [French Tarot](traditional/tarot/FrenchTarot.md)
 - [Israeli Whist](traditional/plain/IsraeliWhist.md)
 - [Mighty](traditional/point/Mighty.md)
+- [Napoleon](traditional/point/Napoleon.md)
 - [MüTwo](invented/MuTwo.md)
 - [Rook](traditional/point/Rook.md)
 - [Schnapsen](traditional/point/Schnapsen.md)

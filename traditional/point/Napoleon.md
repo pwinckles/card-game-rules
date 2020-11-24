@@ -26,7 +26,7 @@ then the joker wins the trick. This is the only way the joker may win a trick.
 tricks as were bid.
 
 **Deal** Standard procedure, dealing out **10 cards** to each player and **3 cards**
-to the talon.
+to the blind.
 
 ## Bidding
 
@@ -42,7 +42,7 @@ raised by increasing the bid level, changing to a higher ranked suit, or both.
 
 ## Calling a Partner
 
-Napoleon takes the blind into their hand and discards back to 10 cards. The
+Napoleon takes the blind into their hand and discards down to 10 cards. The
 discarded cards count for Napoleon at the end of the hand.
 
 Finally, Napoleon calls the holder of a specific card as their secret partner.
