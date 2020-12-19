@@ -20,8 +20,8 @@ Others     | 0
 
 **Objective** Take 36 or more card points to win the hand.
 
-**Deal** Standard procedure, dealing out **16 cards** per player and 6
-cards to the talon.
+**Deal** Standard procedure, dealing out **16 cards** per player and **6
+cards** to the talon.
 
 ## Bidding
 
@@ -116,9 +116,9 @@ Announcements are valued at their game point value times the contract
 multiplier and any applicable contras.
 
 For example, if the declarer bid "two", announced "Pagat ultimo", and
-took 40 card points with a successful ulti. Then, they'd score `(5 + 5
-+ 10) * 2 = 40`. On the other hand, if their ultimo succeeded, but
-they only took 33 card points, then they'd score `10 * 2 = 20` and
+took 40 card points with a successful ulti. Then, they'd score
+`(5 + 5 + 10) * 2 = 40`. On the other hand, if their ultimo succeeded,
+but they only took 33 card points, then they'd score `10 * 2 = 20` and
 their opponents would each score `(5 + 2) * 2 = 14`.
 
 Game is 100 points.
