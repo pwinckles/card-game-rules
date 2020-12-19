@@ -30,8 +30,8 @@ must bid or pass. Once a player passes they may not bid again. The
 player with the highest bid becomes the **declarer**. If everyone
 passes, the hand is thrown in and re-dealt.
 
-The available bids, in ascending order, are **three**, **two**,
-**one**, and **solo**. The bid indicates the number of cards the
+The available bids, in ascending order, are **Three**, **Two**,
+**One**, and **Solo**. The bid indicates the number of cards the
 bidder wishes to exchange with the talon, 0 in the case of solo.
 Additionally, the higher the bid, the more points the game is worth.
 
@@ -48,12 +48,12 @@ After the auction and before the exchange, the declarer may make
 announcements. Announcements made at this time are worth double. The
 defenders may also contra the game or any announcements, quadrupling
 their value, to which the declarer may recontra, x16 multiplier. Note,
-a contra on the game also contras an announced "Without Trull" or
-"Without Kings".
+a contra on the game also contras an announced _Without Trull_ or
+_Without Kings_.
 
-"With 40", "With 50", and "Valat" are mounting announcements. For
-example, "With 50" cannot be announced without also announcing "With
-50". They are each evaluated independently during scoring.
+_With 40_, _With 50_, and _Valat_ are mounting announcements. For
+example, _With 50_ cannot be announced without also announcing _With
+50_. They are each evaluated independently during scoring.
 
 Following the exchange and before play begins, the declarer has a
 second chance to make announcements. The procedure is the same, but
@@ -77,10 +77,10 @@ If the declarer's contract allows them to exchange cards with the
 talon, the entire talon is turned face up on the table and divided
 into groups.
 
-If the declarer's contract is **three**, the first three consecutive
+If the declarer's contract is _Three_, the first three consecutive
 cards are a group and the last three cards are a group. If the
-contract is **two**, the first two cards, middle two cards, and last
-two cards are each a group. Finally, if the contract is **one**, each
+contract is _Two_, the first two cards, middle two cards, and last
+two cards are each a group. Finally, if the contract is _One_, each
 individual card is in its own group.
 
 The declarer selects one of the groups, adds it to their hand, and
@@ -92,7 +92,7 @@ choice, but must be discard face up for everyone to see.
 The remaining cards that the declarer did not select count for the
 opponents at the end of the hand.
 
-If the declarer announced "Without Kings" or "Without Trull" before
+If the declarer announced _Without Kings_ or _Without Trull_ before
 the exchange, they cannot select a group of cards in the exchange that
 contains any of the cards that they announced they were without. If
 they have no other choice, then they fail the announcement, but the
@@ -121,7 +121,7 @@ any applicable contras.
 Announcements are valued at their game point value times the contract
 multiplier and any applicable contras.
 
-For example, if the declarer bid "two", announced "Pagat ultimo", and
+For example, if the declarer bid _Two_, announced _Pagat ultimo_, and
 took 40 card points with a successful ulti. Then, they'd score
 `(5 + 5 + 10) * 2 = 40`. On the other hand, if their ultimo succeeded,
 but they only took 33 card points, then they'd score `10 * 2 = 20` and
