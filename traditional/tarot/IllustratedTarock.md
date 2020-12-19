@@ -25,12 +25,10 @@ cards** to the talon.
 
 ## Bidding
 
-Starting with the **dealer** and continuing in **reverse turn order**,
-each player must bid, hold, or pass. Players may only hold bids made
-by players who with lower preference, forehand has highest and dealer
-lowest. Once a player passes they may not bid again. The player with
-the highest bid becomes the **declarer**. If everyone passes, the hand
-is thrown in and re-dealt.
+Starting with **forehand** and continuing in turn order, each player
+must bid or pass. Once a player passes they may not bid again. The
+player with the highest bid becomes the **declarer**. If everyone
+passes, the hand is thrown in and re-dealt.
 
 The available bids, in ascending order, are **three**, **two**,
 **one**, and **solo**. The bid indicates the number of cards the
@@ -49,7 +47,9 @@ Additionally, the higher the bid, the more points the game is worth.
 After the auction and before the exchange, the declarer may make
 announcements. Announcements made at this time are worth double. The
 defenders may also contra the game or any announcements, quadrupling
-their value, to which the declarer may recontra, x16 multiplier.
+their value, to which the declarer may recontra, x16 multiplier. Note,
+a contra on the game also contras an announced "Without Trull" or
+"Without Kings".
 
 "With 40", "With 50", and "Valat" are mounting announcements. For
 example, "With 50" cannot be announced without also announcing "With
