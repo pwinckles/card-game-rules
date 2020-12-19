@@ -51,6 +51,10 @@ announcements. Announcements made at this time are worth double. The
 defenders may also contra the game or any announcements, quadrupling
 their value, to which the declarer may recontra, x16 multiplier.
 
+"With 40", "With 50", and "Valat" are mounting announcements. For
+example, "With 50" cannot be announced without also announcing "With
+50". They are each evaluated independently during scoring.
+
 Following the exchange and before play begins, the declarer has a
 second chance to make announcements. The procedure is the same, but
 their values are no longer doubled.
