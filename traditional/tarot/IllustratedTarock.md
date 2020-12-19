@@ -26,9 +26,11 @@ cards** to the talon.
 ## Bidding
 
 Starting with the **dealer** and continuing in **reverse turn order**,
-each player must bid, hold, or pass. There is only one round of
-bidding. The player with the highest bid becomes the **declarer**. If
-everyone passes, the hand is thrown in and re-dealt.
+each player must bid, hold, or pass. Players may only hold bids made
+by players who with lower preference, forehand has highest and dealer
+lowest. Once a player passes they may not bid again. The player with
+the highest bid becomes the **declarer**. If everyone passes, the hand
+is thrown in and re-dealt.
 
 The available bids, in ascending order, are **three**, **two**,
 **one**, and **solo**. The bid indicates the number of cards the
