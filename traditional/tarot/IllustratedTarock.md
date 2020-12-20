@@ -61,15 +61,17 @@ their values are no longer doubled.
 
 | Bonus         | Value | Silent | Player   | Description                        |
 |:--------------|:------|:-------|:---------|:-----------------------------------|
-| Pagat         | 10    | 5      | Declarer | Win final trick with the Pagat     |
 | With 40       | 5     | -      | Declarer | Win at least 40 card points        |
 | With 50       | 20    | -      | Declarer | Win at least 50 card points        |
+| Valat         | 40    | 20     | Declarer | Win every trick                    |
+| Pagat Ultimo  | 10    | 5      | Declarer | Win final trick with Trump 1       |
+| Uhu           | 10    | 5      | Declarer | Win 2nd to last trick with Trump 2 |
+| Kakadu        | 10    | 5      | Declarer | Win 3rd to last trick with Trump 3 |
 | Without Trull | 10    | -      | Declarer | Win game without any Trull in hand |
 | Without Kings | 10    | -      | Declarer | Win game without any Kings in hand |
-| Trump Trull   | -     | 3      | Any      | All Trull in hand                  |
-| Kings Trull   | -     | 3      | Any      | All Kings in hand                  |
-| Valat         | 40    | 20     | Declarer | Win every trick                    |
-
+| Trull         | -     | 3      | Any      | All Trull in tricks                |
+| Four Kings    | -     | 3      | Any      | All Kings in tricks                |
+| Mondfang      | -     | 3      | Any      | Capture opponent's Trump 21        |
 
 ## Exchange
 
