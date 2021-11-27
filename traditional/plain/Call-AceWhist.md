@@ -33,9 +33,9 @@ modifier. The modifiers are as follows:
 The following negative games may also be bid, they are all played
 alone with no trump:
 
-- **Sun**: Win exactly one trick
+- **Sun**: Win at most one trick
 - **Clean sun**: Win no tricks
-- **Table**: Win exactly one trick; expose hand after first trick
+- **Table**: Win at most one trick; expose hand after first trick
 - **Clean table**: Win no tricks; expose hand after first trick
 - **Double table**: Win no tricks; everyone exposes their hand after
   first trick
