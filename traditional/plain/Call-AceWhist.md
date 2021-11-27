@@ -21,7 +21,7 @@ In addition to the target number of tricks, a bid may also have a
 modifier. The modifiers are as follows:
 
 - **Good**: Called partner; clubs trump
-- **Sense**: Called partner; no trump
+- **Sans**: Called partner; no trump
 - **Turn**: Called partner; _must_ exchange with kitty. Flip top
   card of kitty. Either accept suit as trump or flip the next card.
   Must accept the suit of the final card.
@@ -71,8 +71,8 @@ The bids are ranked as follows:
 | 13 Quarter   | 128    |
 
 The **+** contracts are contracts with a modifier, except for Quarter.
-At the same level, modifiers rank in ascending order: Turn, Good,
-Sense, Half.
+At the same level, modifiers rank in ascending order: Half, Good,
+Turn, Sans.
 
 ## Post-auction
 
