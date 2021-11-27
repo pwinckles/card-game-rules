@@ -43,32 +43,32 @@ The bids are ranked as follows:
 
 | Contract     | Points |
 |--------------|--------|
-| 7            | 1     |
-| 7+           | 2     |
-| 8            | 2     |
-| Sun          | 5     |
-| 8+           | 4     |
-| 9            | 4     |
-| 7 Quarter    | 2     |
-| Clean sun    | 10    |
-| 9+           | 8     |
-| 10           | 8     |
-| Table        | 20    |
-| 8 Quarter    | 4     |
-| 10+          | 16    |
-| 11           | 16    |
-| 9 Quarter    | 8     |
-| 11+          | 32    |
-| 12           | 32    |
-| Clean table  | 20    |
-| 10 Quarter   | 16    |
-| 12+          | 64    |
-| 13           | 64    |
-| Double table | 40    |
-| 11 Quarter   | 32    |
-| 13+          | 128   |
-| 12 Quarter   | 64    |
-| 13 Quarter   | 128   |
+| 7            | 1      |
+| 7+           | 2      |
+| 8            | 2      |
+| Sun          | 5      |
+| 8+           | 4      |
+| 9            | 4      |
+| 7 Quarter    | 2      |
+| Clean sun    | 10     |
+| 9+           | 8      |
+| 10           | 8      |
+| Table        | 20     |
+| 8 Quarter    | 4      |
+| 10+          | 16     |
+| 11           | 16     |
+| 9 Quarter    | 8      |
+| 11+          | 32     |
+| 12           | 32     |
+| Clean table  | 20     |
+| 10 Quarter   | 16     |
+| 12+          | 64     |
+| 13           | 64     |
+| Double table | 40     |
+| 11 Quarter   | 32     |
+| 13+          | 128    |
+| 12 Quarter   | 64     |
+| 13 Quarter   | 128    |
 
 The **+** contracts are contracts with a modifier, except for Quarter.
 At the same level, modifiers rank in ascending order: Turn, Good,
