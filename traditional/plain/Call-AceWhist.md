@@ -4,7 +4,8 @@
 
 **Players** 4, playing individually
 
-**Cards** A standard 52-card deck, plus 3 jokers. Aces are high.
+**Cards** A standard 52-card deck, plus 3 jokers. Aces are high,
+except in negative games.
 
 **Objective** Take at least as many tricks as bid with or without a partner
 
