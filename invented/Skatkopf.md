@@ -166,13 +166,13 @@ each of the other players.
 
 | Card  | Points |
 |-------|--------|
-| 5     | 5      |
-| Queen | 2      |
-| King  | 3      |
-| 10    | 10     |
-| Ace   | 11     |
 | Jack  | 1      |
 | Joker | 1      |
+| Queen | 2      |
+| King  | 3      |
+| 5     | 5      |
+| 10    | 10     |
+| Ace   | 11     |
 
 130 total points in the cards, plus 10 points for last-trick, for a
 total of 140 points. Game is 71 and schneider is 106.
