@@ -80,9 +80,9 @@ any two cards facedown to their trick pile.
 ## Calling a Partner ##
 
 If the game is Partner, then the declarer must call a partner by
-naming a plain-suit ace that is not in their hand. Additionally, they
+naming a plain suit ace that is not in their hand. Additionally, they
 must hold at least one card in the ace's suit. If they cannot meet
-these conditions, then they must call the lowest card in a plain-suit
+these conditions, then they must call the lowest card in a plain suit
 that they hold an ace in.
 
 The player who holds the called card is the declarer's partner. They
@@ -100,11 +100,10 @@ the kitty and make an exchange. In Grand Hand, there is no exchange.
 
 ## Leaster ##
 
-When no one picks a Leaster is played. In a Leaster there are no
-teams, and the goal is to be the player who takes the fewest points.
-However, in order to win a Leaster you must also take at least one
-trick. The player who takes the final trick also takes the cards in
-the kitty.
+When no one bids a Leaster is played. Everyone plays for themselves,
+and the goal is to be the player who takes the fewest points. However,
+in order to win, you must also take at least one trick. The player who
+takes the final trick also takes the cards in the kitty.
 
 ## Play ##
 
@@ -157,7 +156,9 @@ each of the other players.
 
 - When two jokers are played to the same trick, the first joker played
   wins. This makes it easier for the declarer.
-- Doubling only applies to the base game value and not the total value
-  of the hand.
 - There are no restrictions on how the called card is played. This
   makes it easier for the declarer.
+- Doubling only applies to the base game value and not the total value
+  of the hand.
+- Losing after flipping two cards in a tournee does not double the
+  value of the game.
