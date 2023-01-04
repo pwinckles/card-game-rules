@@ -175,4 +175,5 @@ each of the other players.
 | Ace   | 11     |
 
 130 total points in the cards, plus 10 points for last-trick, for a
-total of 140 points. Game is 71 and schneider is 106.
+total of 140 points. Game is 71 and schneider is 106 (need 35 to avoid
+being schneidered).
