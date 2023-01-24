@@ -56,8 +56,12 @@ times.
 
 The player who takes the bid is the **declarer**. The declarer may
 change their bid to a higher value game after the auction is over, but
-before moving on to the next step. If everyone passes, a **Leaster**
-is played.
+before moving on to the next step.
+
+If everyone passes, then forehand _must_ play a game. However, if they
+play a Partner game, then they may take the entire kitty into their
+hand prior to naming trump and calling a partner, in exception to the
+normal rules.
 
 ## Making Trump ##
 
@@ -97,13 +101,6 @@ alone.
 In Grand games, a plain suit is not elevated to trump. Only the jokers
 and jacks are trump. In Baby Grand, the declarer is allowed to pickup
 the kitty and make an exchange. In Grand Hand, there is no exchange.
-
-## Leaster ##
-
-When no one bids a Leaster is played. Everyone plays for themselves,
-and the goal is to be the player who takes the fewest points. However,
-in order to win, you must also take at least one trick. The player who
-takes the final trick also takes the cards in the kitty.
 
 ## Play ##
 
@@ -145,12 +142,6 @@ Some examples:
   each member of the other team gains 4 points.
 - A Solo game is won with 91 points. The declarer gains 9 points, and
   the other three players each lose 3 points.
-
-### Leaster ##
-
-The winner of a Leaster is the player who took at least one trick and
-took the fewest total card-points. This player receives 1 point from
-each of the other players.
 
 ## Variations ##
 
